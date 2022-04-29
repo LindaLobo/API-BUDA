@@ -9,3 +9,5 @@ Aplicación de consola desarrollada con Ruby usando la API de Buda.com (https://
 2. Descargar y descomprimir el archivo.
 3. Abrir la terminal e ingresar a la carpeta descomprimida.
 4. Al ingresar a la carpeta desde la terminal ejecutar el comando ruby buda.rb, el cual mostrará la transacción con mayor monto por mercado en las últimas 24 horas.
+
+Actualizacion del readme
